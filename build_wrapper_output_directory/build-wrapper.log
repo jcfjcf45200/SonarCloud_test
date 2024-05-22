@@ -1,0 +1,378 @@
+Wed May 22 09:56:32 2024: build-wrapper, version 6.50 (win-x86-64)
+Wed May 22 09:56:32 2024: isWow64: 0
+Wed May 22 09:56:32 2024: windows version: 10.0, service pack: 0.0, build number: 19045, product type: 1
+Wed May 22 09:56:32 2024: current directory: C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp
+Wed May 22 09:56:32 2024: cwd: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp>
+Wed May 22 09:56:32 2024: out-dir absolute path: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\build_wrapper_output_directory>
+Wed May 22 09:56:32 2024: command line received: <C:\ti\ccsv6\eclipse\eclipsec.exe -noSplash -data "C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master" -application com.ti.ccstudio.apps.projectBuild -ccs.projects maincontrol_dsp -ccs.configuration Release>
+Wed May 22 09:56:32 2024: initializing json file
+Wed May 22 09:56:32 2024: starting debug cycle
+Wed May 22 09:56:32 2024: process created with pid: 21536
+Wed May 22 09:56:32 2024: image path name: <C:\ti\ccsv6\eclipse\eclipsec.exe>
+Wed May 22 09:56:32 2024: command line: <C:\ti\ccsv6\eclipse\eclipsec.exe -noSplash -data "C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master" -application com.ti.ccstudio.apps.projectBuild -ccs.projects maincontrol_dsp -ccs.configuration Release>
+Wed May 22 09:56:32 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:32 2024: isWow64: 1
+Wed May 22 09:56:32 2024: skipping process C:\ti\ccsv6\eclipse\eclipsec.exe with pid: 21536
+Wed May 22 09:56:35 2024: process created with pid: 2972
+Wed May 22 09:56:35 2024: image path name: <C:\ti\ccsv6\ccs_base\DebugServer\bin\TICrashMonitor.exe>
+Wed May 22 09:56:35 2024: command line: <"C:\ti\ccsv6\ccs_base\DebugServer\bin\TICrashMonitor.exe" "C:\Users\a0e72162\AppData\Local\TEXASI~1\CCS\ti\0\dmp\\">
+Wed May 22 09:56:35 2024: working directory: <C:\ti\ccsv6\ccs_base\DebugServer\bin\>
+Wed May 22 09:56:35 2024: isWow64: 1
+Wed May 22 09:56:35 2024: skipping process C:\ti\ccsv6\ccs_base\DebugServer\bin\TICrashMonitor.exe with pid: 2972
+Wed May 22 09:56:51 2024: process created with pid: 34384
+Wed May 22 09:56:51 2024: image path name: <C:\ti\ccsv6\tools\compiler\arm_15.12.3.LTS\bin\armcl.exe>
+Wed May 22 09:56:51 2024: command line: <C:\ti\ccsv6\tools\compiler\arm_15.12.3.LTS\bin\armcl.exe --full_compiler_version>
+Wed May 22 09:56:51 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:51 2024: isWow64: 1
+Wed May 22 09:56:51 2024: VirtualQueryEx 00000000000107E0
+Wed May 22 09:56:51 2024: 	Offset 2016
+Wed May 22 09:56:51 2024: 	VirtualQueryEx Base	BaseAddr: 0000000000010000	AllocationBase: 0000000000010000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Wed May 22 09:56:51 2024: Read environment of size 3474
+Wed May 22 09:56:51 2024: env0: <=::=::\>
+Wed May 22 09:56:51 2024: env1: <=C:=C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp>
+Wed May 22 09:56:51 2024: env2: <=ExitCode=00000000>
+Wed May 22 09:56:51 2024: env3: <ALLUSERSPROFILE=C:\ProgramData>
+Wed May 22 09:56:51 2024: env4: <APPDATA=C:\Users\a0e72162\AppData\Roaming>
+Wed May 22 09:56:51 2024: env5: <CANoe_InstallDir=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:51 2024: env6: <CANoe_InstallDir64=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:51 2024: env7: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:51 2024: env8: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:51 2024: env9: <CommonProgramW6432=C:\Program Files\Common Files>
+Wed May 22 09:56:51 2024: env10: <COMPUTERNAME=ACSLRL21167>
+Wed May 22 09:56:51 2024: env11: <ComSpec=C:\windows\system32\cmd.exe>
+Wed May 22 09:56:51 2024: env12: <CYGWIN=wincmdln>
+Wed May 22 09:56:51 2024: env13: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Wed May 22 09:56:51 2024: env14: <HOMEDRIVE=C:>
+Wed May 22 09:56:51 2024: env15: <HOMEPATH=\Users\a0e72162>
+Wed May 22 09:56:51 2024: env16: <IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhm9XggTkFE2wRpAJT3aJ2QQAAAACAAAAAAAQZgAAAAEAACAAAAD+SsPr3kXvb3t85z0mqPOkQMBzMuWCGms9tEq4FWfYnwAAAAAOgAAAAAIAACAAAABgOzMOf35DRAPgMVDjAffRLqpRCdrPhQmRepnESp4pFWAAAACYE1MgBEusDiefnaM8qpPQgmvh2UxS6acsX/bdT3yS8x6bD+NayuRdnskGDe+c8YjxvXQHcQ9JbWpKiMtSXZxmYjrHkkKym01Wb/6o8hNNrqkanRpML0uFbRxkYXwGKWlAAAAA3tubI6rrWiOp59B91ECWHablr+1KJ5eSYVa2juPAsEVBpyxxCsKluL3IPtRNostn5u3WsUq1hdZWrATtQBGZng==>
+Wed May 22 09:56:51 2024: env17: <LOCALAPPDATA=C:\Users\a0e72162\AppData\Local>
+Wed May 22 09:56:51 2024: env18: <LOGONSERVER=\\SD6-FRCSL-DW01>
+Wed May 22 09:56:51 2024: env19: <NUMBER_OF_PROCESSORS=12>
+Wed May 22 09:56:51 2024: env20: <OneDrive=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:51 2024: env21: <OneDriveConsumer=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:51 2024: env22: <OS=Windows_NT>
+Wed May 22 09:56:51 2024: env23: <Path=C:\ti\ccsv6\ccs_base\common\bin;C:\ti\ccsv6\ccs_base\common\uscif;C:\ti\ccsv6\ccs_base\DebugServer\license;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Oberthur Technologies\AWP\Dlls;C:\Program Files\Oberthur Technologies\AWP\Dlls;c:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Keil_v5\UV4;C:\Workspace\HUT-CRI-SEEDS-SCP;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\ti\ccsv6\utils\bin;C:\Users\a0e72162\.cargo\bin;C:\Users\a0e72162\AppData\Local\Microsoft\WindowsApps;C:\Users\a0e72162\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\a0e72162\AppData\Local\GitHubDesktop\bin;C:\Users\a0e72162\AppData\Local\Programs\Git\cmd;C:\Users\a0e72162\AppData\Roaming\npm>
+Wed May 22 09:56:51 2024: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW>
+Wed May 22 09:56:51 2024: env25: <PICO_DRIVER=c:\Program Files\Vector_CANoe_CANalyzer_Scope\Drivers>
+Wed May 22 09:56:51 2024: env26: <PROCESSOR_ARCHITECTURE=x86>
+Wed May 22 09:56:51 2024: env27: <PROCESSOR_ARCHITEW6432=AMD64>
+Wed May 22 09:56:51 2024: env28: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel>
+Wed May 22 09:56:51 2024: env29: <PROCESSOR_LEVEL=6>
+Wed May 22 09:56:51 2024: env30: <PROCESSOR_REVISION=ba03>
+Wed May 22 09:56:51 2024: env31: <ProgramData=C:\ProgramData>
+Wed May 22 09:56:51 2024: env32: <ProgramFiles=C:\Program Files (x86)>
+Wed May 22 09:56:51 2024: env33: <ProgramFiles(x86)=C:\Program Files (x86)>
+Wed May 22 09:56:51 2024: env34: <ProgramW6432=C:\Program Files>
+Wed May 22 09:56:51 2024: env35: <PROMPT=$P$G>
+Wed May 22 09:56:51 2024: env36: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell>
+Wed May 22 09:56:51 2024: env37: <PUBLIC=C:\Users\Public>
+Wed May 22 09:56:51 2024: env38: <RPE_HOME=C:\Program Files\IBM\Rational\Publishing Engine>
+Wed May 22 09:56:51 2024: env39: <SESSIONNAME=Console>
+Wed May 22 09:56:51 2024: env40: <STM32CubeMX_PATH=C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX>
+Wed May 22 09:56:51 2024: env41: <SystemDrive=C:>
+Wed May 22 09:56:51 2024: env42: <SystemRoot=C:\windows>
+Wed May 22 09:56:51 2024: env43: <TEMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:51 2024: env44: <TMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:51 2024: env45: <USERDNSDOMAIN=SD6.GLB.CORP.LOCAL>
+Wed May 22 09:56:51 2024: env46: <USERDOMAIN=SD6>
+Wed May 22 09:56:51 2024: env47: <USERDOMAIN_ROAMINGPROFILE=SD6>
+Wed May 22 09:56:51 2024: env48: <USERNAME=a0e72162>
+Wed May 22 09:56:51 2024: env49: <USERPROFILE=C:\Users\a0e72162>
+Wed May 22 09:56:51 2024: env50: <windir=C:\windows>
+Wed May 22 09:56:51 2024: env51: <XERCESC_NLS_HOME=C:\ti\ccsv6\ccs_base\common\bin>
+Wed May 22 09:56:51 2024: env52: <ZES_ENABLE_SYSMAN=1>
+Wed May 22 09:56:51 2024: env53: <_NO_DEBUG_HEAP=1>
+Wed May 22 09:56:51 2024: process with pid 34384 exit with code: 0 (0x0)
+Wed May 22 09:56:52 2024: process created with pid: 23760
+Wed May 22 09:56:52 2024: image path name: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\cl2000.exe>
+Wed May 22 09:56:52 2024: command line: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\cl2000.exe --full_compiler_version>
+Wed May 22 09:56:52 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:52 2024: isWow64: 1
+Wed May 22 09:56:52 2024: VirtualQueryEx 00000000000107F2
+Wed May 22 09:56:52 2024: 	Offset 2034
+Wed May 22 09:56:52 2024: 	VirtualQueryEx Base	BaseAddr: 0000000000010000	AllocationBase: 0000000000010000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Wed May 22 09:56:52 2024: Read environment of size 3474
+Wed May 22 09:56:52 2024: env0: <=::=::\>
+Wed May 22 09:56:52 2024: env1: <=C:=C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp>
+Wed May 22 09:56:52 2024: env2: <=ExitCode=00000000>
+Wed May 22 09:56:52 2024: env3: <ALLUSERSPROFILE=C:\ProgramData>
+Wed May 22 09:56:52 2024: env4: <APPDATA=C:\Users\a0e72162\AppData\Roaming>
+Wed May 22 09:56:52 2024: env5: <CANoe_InstallDir=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env6: <CANoe_InstallDir64=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env7: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env8: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env9: <CommonProgramW6432=C:\Program Files\Common Files>
+Wed May 22 09:56:52 2024: env10: <COMPUTERNAME=ACSLRL21167>
+Wed May 22 09:56:52 2024: env11: <ComSpec=C:\windows\system32\cmd.exe>
+Wed May 22 09:56:52 2024: env12: <CYGWIN=wincmdln>
+Wed May 22 09:56:52 2024: env13: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Wed May 22 09:56:52 2024: env14: <HOMEDRIVE=C:>
+Wed May 22 09:56:52 2024: env15: <HOMEPATH=\Users\a0e72162>
+Wed May 22 09:56:52 2024: env16: <IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhm9XggTkFE2wRpAJT3aJ2QQAAAACAAAAAAAQZgAAAAEAACAAAAD+SsPr3kXvb3t85z0mqPOkQMBzMuWCGms9tEq4FWfYnwAAAAAOgAAAAAIAACAAAABgOzMOf35DRAPgMVDjAffRLqpRCdrPhQmRepnESp4pFWAAAACYE1MgBEusDiefnaM8qpPQgmvh2UxS6acsX/bdT3yS8x6bD+NayuRdnskGDe+c8YjxvXQHcQ9JbWpKiMtSXZxmYjrHkkKym01Wb/6o8hNNrqkanRpML0uFbRxkYXwGKWlAAAAA3tubI6rrWiOp59B91ECWHablr+1KJ5eSYVa2juPAsEVBpyxxCsKluL3IPtRNostn5u3WsUq1hdZWrATtQBGZng==>
+Wed May 22 09:56:52 2024: env17: <LOCALAPPDATA=C:\Users\a0e72162\AppData\Local>
+Wed May 22 09:56:52 2024: env18: <LOGONSERVER=\\SD6-FRCSL-DW01>
+Wed May 22 09:56:52 2024: env19: <NUMBER_OF_PROCESSORS=12>
+Wed May 22 09:56:52 2024: env20: <OneDrive=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env21: <OneDriveConsumer=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env22: <OS=Windows_NT>
+Wed May 22 09:56:52 2024: env23: <Path=C:\ti\ccsv6\ccs_base\common\bin;C:\ti\ccsv6\ccs_base\common\uscif;C:\ti\ccsv6\ccs_base\DebugServer\license;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Oberthur Technologies\AWP\Dlls;C:\Program Files\Oberthur Technologies\AWP\Dlls;c:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Keil_v5\UV4;C:\Workspace\HUT-CRI-SEEDS-SCP;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\ti\ccsv6\utils\bin;C:\Users\a0e72162\.cargo\bin;C:\Users\a0e72162\AppData\Local\Microsoft\WindowsApps;C:\Users\a0e72162\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\a0e72162\AppData\Local\GitHubDesktop\bin;C:\Users\a0e72162\AppData\Local\Programs\Git\cmd;C:\Users\a0e72162\AppData\Roaming\npm>
+Wed May 22 09:56:52 2024: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW>
+Wed May 22 09:56:52 2024: env25: <PICO_DRIVER=c:\Program Files\Vector_CANoe_CANalyzer_Scope\Drivers>
+Wed May 22 09:56:52 2024: env26: <PROCESSOR_ARCHITECTURE=x86>
+Wed May 22 09:56:52 2024: env27: <PROCESSOR_ARCHITEW6432=AMD64>
+Wed May 22 09:56:52 2024: env28: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel>
+Wed May 22 09:56:52 2024: env29: <PROCESSOR_LEVEL=6>
+Wed May 22 09:56:52 2024: env30: <PROCESSOR_REVISION=ba03>
+Wed May 22 09:56:52 2024: env31: <ProgramData=C:\ProgramData>
+Wed May 22 09:56:52 2024: env32: <ProgramFiles=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env33: <ProgramFiles(x86)=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env34: <ProgramW6432=C:\Program Files>
+Wed May 22 09:56:52 2024: env35: <PROMPT=$P$G>
+Wed May 22 09:56:52 2024: env36: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell>
+Wed May 22 09:56:52 2024: env37: <PUBLIC=C:\Users\Public>
+Wed May 22 09:56:52 2024: env38: <RPE_HOME=C:\Program Files\IBM\Rational\Publishing Engine>
+Wed May 22 09:56:52 2024: env39: <SESSIONNAME=Console>
+Wed May 22 09:56:52 2024: env40: <STM32CubeMX_PATH=C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX>
+Wed May 22 09:56:52 2024: env41: <SystemDrive=C:>
+Wed May 22 09:56:52 2024: env42: <SystemRoot=C:\windows>
+Wed May 22 09:56:52 2024: env43: <TEMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env44: <TMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env45: <USERDNSDOMAIN=SD6.GLB.CORP.LOCAL>
+Wed May 22 09:56:52 2024: env46: <USERDOMAIN=SD6>
+Wed May 22 09:56:52 2024: env47: <USERDOMAIN_ROAMINGPROFILE=SD6>
+Wed May 22 09:56:52 2024: env48: <USERNAME=a0e72162>
+Wed May 22 09:56:52 2024: env49: <USERPROFILE=C:\Users\a0e72162>
+Wed May 22 09:56:52 2024: env50: <windir=C:\windows>
+Wed May 22 09:56:52 2024: env51: <XERCESC_NLS_HOME=C:\ti\ccsv6\ccs_base\common\bin>
+Wed May 22 09:56:52 2024: env52: <ZES_ENABLE_SYSMAN=1>
+Wed May 22 09:56:52 2024: env53: <_NO_DEBUG_HEAP=1>
+Wed May 22 09:56:52 2024: process with pid 23760 exit with code: 0 (0x0)
+Wed May 22 09:56:52 2024: process created with pid: 12368
+Wed May 22 09:56:52 2024: image path name: <C:\ti\ccsv6\tools\compiler\ti-cgt-c2000_22.6.1.LTS\bin\cl2000.exe>
+Wed May 22 09:56:52 2024: command line: <C:\ti\ccsv6\tools\compiler\ti-cgt-c2000_22.6.1.LTS\bin\cl2000.exe --full_compiler_version>
+Wed May 22 09:56:52 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:52 2024: isWow64: 0
+Wed May 22 09:56:52 2024: VirtualQueryEx 00000133D75D0816
+Wed May 22 09:56:52 2024: 	Offset 2070
+Wed May 22 09:56:52 2024: 	VirtualQueryEx Base	BaseAddr: 00000133D75D0000	AllocationBase: 00000133D75D0000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Wed May 22 09:56:52 2024: Read environment of size 3474
+Wed May 22 09:56:52 2024: env0: <=::=::\>
+Wed May 22 09:56:52 2024: env1: <=C:=C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp>
+Wed May 22 09:56:52 2024: env2: <=ExitCode=00000000>
+Wed May 22 09:56:52 2024: env3: <ALLUSERSPROFILE=C:\ProgramData>
+Wed May 22 09:56:52 2024: env4: <APPDATA=C:\Users\a0e72162\AppData\Roaming>
+Wed May 22 09:56:52 2024: env5: <CANoe_InstallDir=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env6: <CANoe_InstallDir64=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env7: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env8: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env9: <CommonProgramW6432=C:\Program Files\Common Files>
+Wed May 22 09:56:52 2024: env10: <COMPUTERNAME=ACSLRL21167>
+Wed May 22 09:56:52 2024: env11: <ComSpec=C:\windows\system32\cmd.exe>
+Wed May 22 09:56:52 2024: env12: <CYGWIN=wincmdln>
+Wed May 22 09:56:52 2024: env13: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Wed May 22 09:56:52 2024: env14: <HOMEDRIVE=C:>
+Wed May 22 09:56:52 2024: env15: <HOMEPATH=\Users\a0e72162>
+Wed May 22 09:56:52 2024: env16: <IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhm9XggTkFE2wRpAJT3aJ2QQAAAACAAAAAAAQZgAAAAEAACAAAAD+SsPr3kXvb3t85z0mqPOkQMBzMuWCGms9tEq4FWfYnwAAAAAOgAAAAAIAACAAAABgOzMOf35DRAPgMVDjAffRLqpRCdrPhQmRepnESp4pFWAAAACYE1MgBEusDiefnaM8qpPQgmvh2UxS6acsX/bdT3yS8x6bD+NayuRdnskGDe+c8YjxvXQHcQ9JbWpKiMtSXZxmYjrHkkKym01Wb/6o8hNNrqkanRpML0uFbRxkYXwGKWlAAAAA3tubI6rrWiOp59B91ECWHablr+1KJ5eSYVa2juPAsEVBpyxxCsKluL3IPtRNostn5u3WsUq1hdZWrATtQBGZng==>
+Wed May 22 09:56:52 2024: env17: <LOCALAPPDATA=C:\Users\a0e72162\AppData\Local>
+Wed May 22 09:56:52 2024: env18: <LOGONSERVER=\\SD6-FRCSL-DW01>
+Wed May 22 09:56:52 2024: env19: <NUMBER_OF_PROCESSORS=12>
+Wed May 22 09:56:52 2024: env20: <OneDrive=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env21: <OneDriveConsumer=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env22: <OS=Windows_NT>
+Wed May 22 09:56:52 2024: env23: <Path=C:\ti\ccsv6\ccs_base\common\bin;C:\ti\ccsv6\ccs_base\common\uscif;C:\ti\ccsv6\ccs_base\DebugServer\license;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Oberthur Technologies\AWP\Dlls;C:\Program Files\Oberthur Technologies\AWP\Dlls;c:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Keil_v5\UV4;C:\Workspace\HUT-CRI-SEEDS-SCP;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\ti\ccsv6\utils\bin;C:\Users\a0e72162\.cargo\bin;C:\Users\a0e72162\AppData\Local\Microsoft\WindowsApps;C:\Users\a0e72162\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\a0e72162\AppData\Local\GitHubDesktop\bin;C:\Users\a0e72162\AppData\Local\Programs\Git\cmd;C:\Users\a0e72162\AppData\Roaming\npm>
+Wed May 22 09:56:52 2024: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW>
+Wed May 22 09:56:52 2024: env25: <PICO_DRIVER=c:\Program Files\Vector_CANoe_CANalyzer_Scope\Drivers>
+Wed May 22 09:56:52 2024: env26: <PROCESSOR_ARCHITECTURE=x86>
+Wed May 22 09:56:52 2024: env27: <PROCESSOR_ARCHITEW6432=AMD64>
+Wed May 22 09:56:52 2024: env28: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel>
+Wed May 22 09:56:52 2024: env29: <PROCESSOR_LEVEL=6>
+Wed May 22 09:56:52 2024: env30: <PROCESSOR_REVISION=ba03>
+Wed May 22 09:56:52 2024: env31: <ProgramData=C:\ProgramData>
+Wed May 22 09:56:52 2024: env32: <ProgramFiles=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env33: <ProgramFiles(x86)=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env34: <ProgramW6432=C:\Program Files>
+Wed May 22 09:56:52 2024: env35: <PROMPT=$P$G>
+Wed May 22 09:56:52 2024: env36: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell>
+Wed May 22 09:56:52 2024: env37: <PUBLIC=C:\Users\Public>
+Wed May 22 09:56:52 2024: env38: <RPE_HOME=C:\Program Files\IBM\Rational\Publishing Engine>
+Wed May 22 09:56:52 2024: env39: <SESSIONNAME=Console>
+Wed May 22 09:56:52 2024: env40: <STM32CubeMX_PATH=C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX>
+Wed May 22 09:56:52 2024: env41: <SystemDrive=C:>
+Wed May 22 09:56:52 2024: env42: <SystemRoot=C:\windows>
+Wed May 22 09:56:52 2024: env43: <TEMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env44: <TMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env45: <USERDNSDOMAIN=SD6.GLB.CORP.LOCAL>
+Wed May 22 09:56:52 2024: env46: <USERDOMAIN=SD6>
+Wed May 22 09:56:52 2024: env47: <USERDOMAIN_ROAMINGPROFILE=SD6>
+Wed May 22 09:56:52 2024: env48: <USERNAME=a0e72162>
+Wed May 22 09:56:52 2024: env49: <USERPROFILE=C:\Users\a0e72162>
+Wed May 22 09:56:52 2024: env50: <windir=C:\windows>
+Wed May 22 09:56:52 2024: env51: <XERCESC_NLS_HOME=C:\ti\ccsv6\ccs_base\common\bin>
+Wed May 22 09:56:52 2024: env52: <ZES_ENABLE_SYSMAN=1>
+Wed May 22 09:56:52 2024: env53: <_NO_DEBUG_HEAP=1>
+Wed May 22 09:56:52 2024: process with pid 12368 exit with code: 0 (0x0)
+Wed May 22 09:56:52 2024: process created with pid: 14816
+Wed May 22 09:56:52 2024: image path name: <C:\windows\SysWOW64\cmd.exe>
+Wed May 22 09:56:52 2024: command line: <cmd /d /c set PROCESSOR_ARCHITECTURE>
+Wed May 22 09:56:52 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:52 2024: isWow64: 1
+Wed May 22 09:56:52 2024: skipping process C:\Windows\SysWOW64\cmd.exe with pid: 14816
+Wed May 22 09:56:52 2024: process with pid 14816 exit with code: 0 (0x0)
+Wed May 22 09:56:52 2024: process created with pid: 33884
+Wed May 22 09:56:52 2024: image path name: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\cl2000.exe>
+Wed May 22 09:56:52 2024: command line: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\cl2000 --canonicalize_options --silicon_version=28 -g -O2 --diag_warning=225 --large_memory_model --float_support=fpu32>
+Wed May 22 09:56:52 2024: working directory: <C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\maincontrol_dsp\Release\>
+Wed May 22 09:56:52 2024: isWow64: 1
+Wed May 22 09:56:52 2024: VirtualQueryEx 000000000001089C
+Wed May 22 09:56:52 2024: 	Offset 2204
+Wed May 22 09:56:52 2024: 	VirtualQueryEx Base	BaseAddr: 0000000000010000	AllocationBase: 0000000000010000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Wed May 22 09:56:52 2024: Read environment of size 3474
+Wed May 22 09:56:52 2024: env0: <=::=::\>
+Wed May 22 09:56:52 2024: env1: <=C:=C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp>
+Wed May 22 09:56:52 2024: env2: <=ExitCode=00000000>
+Wed May 22 09:56:52 2024: env3: <ALLUSERSPROFILE=C:\ProgramData>
+Wed May 22 09:56:52 2024: env4: <APPDATA=C:\Users\a0e72162\AppData\Roaming>
+Wed May 22 09:56:52 2024: env5: <CANoe_InstallDir=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env6: <CANoe_InstallDir64=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env7: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env8: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env9: <CommonProgramW6432=C:\Program Files\Common Files>
+Wed May 22 09:56:52 2024: env10: <COMPUTERNAME=ACSLRL21167>
+Wed May 22 09:56:52 2024: env11: <ComSpec=C:\windows\system32\cmd.exe>
+Wed May 22 09:56:52 2024: env12: <CYGWIN=wincmdln>
+Wed May 22 09:56:52 2024: env13: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Wed May 22 09:56:52 2024: env14: <HOMEDRIVE=C:>
+Wed May 22 09:56:52 2024: env15: <HOMEPATH=\Users\a0e72162>
+Wed May 22 09:56:52 2024: env16: <IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhm9XggTkFE2wRpAJT3aJ2QQAAAACAAAAAAAQZgAAAAEAACAAAAD+SsPr3kXvb3t85z0mqPOkQMBzMuWCGms9tEq4FWfYnwAAAAAOgAAAAAIAACAAAABgOzMOf35DRAPgMVDjAffRLqpRCdrPhQmRepnESp4pFWAAAACYE1MgBEusDiefnaM8qpPQgmvh2UxS6acsX/bdT3yS8x6bD+NayuRdnskGDe+c8YjxvXQHcQ9JbWpKiMtSXZxmYjrHkkKym01Wb/6o8hNNrqkanRpML0uFbRxkYXwGKWlAAAAA3tubI6rrWiOp59B91ECWHablr+1KJ5eSYVa2juPAsEVBpyxxCsKluL3IPtRNostn5u3WsUq1hdZWrATtQBGZng==>
+Wed May 22 09:56:52 2024: env17: <LOCALAPPDATA=C:\Users\a0e72162\AppData\Local>
+Wed May 22 09:56:52 2024: env18: <LOGONSERVER=\\SD6-FRCSL-DW01>
+Wed May 22 09:56:52 2024: env19: <NUMBER_OF_PROCESSORS=12>
+Wed May 22 09:56:52 2024: env20: <OneDrive=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env21: <OneDriveConsumer=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env22: <OS=Windows_NT>
+Wed May 22 09:56:52 2024: env23: <Path=C:\ti\ccsv6\ccs_base\common\bin;C:\ti\ccsv6\ccs_base\common\uscif;C:\ti\ccsv6\ccs_base\DebugServer\license;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Oberthur Technologies\AWP\Dlls;C:\Program Files\Oberthur Technologies\AWP\Dlls;c:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Keil_v5\UV4;C:\Workspace\HUT-CRI-SEEDS-SCP;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\ti\ccsv6\utils\bin;C:\Users\a0e72162\.cargo\bin;C:\Users\a0e72162\AppData\Local\Microsoft\WindowsApps;C:\Users\a0e72162\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\a0e72162\AppData\Local\GitHubDesktop\bin;C:\Users\a0e72162\AppData\Local\Programs\Git\cmd;C:\Users\a0e72162\AppData\Roaming\npm>
+Wed May 22 09:56:52 2024: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW>
+Wed May 22 09:56:52 2024: env25: <PICO_DRIVER=c:\Program Files\Vector_CANoe_CANalyzer_Scope\Drivers>
+Wed May 22 09:56:52 2024: env26: <PROCESSOR_ARCHITECTURE=x86>
+Wed May 22 09:56:52 2024: env27: <PROCESSOR_ARCHITEW6432=AMD64>
+Wed May 22 09:56:52 2024: env28: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel>
+Wed May 22 09:56:52 2024: env29: <PROCESSOR_LEVEL=6>
+Wed May 22 09:56:52 2024: env30: <PROCESSOR_REVISION=ba03>
+Wed May 22 09:56:52 2024: env31: <ProgramData=C:\ProgramData>
+Wed May 22 09:56:52 2024: env32: <ProgramFiles=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env33: <ProgramFiles(x86)=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env34: <ProgramW6432=C:\Program Files>
+Wed May 22 09:56:52 2024: env35: <PROMPT=$P$G>
+Wed May 22 09:56:52 2024: env36: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell>
+Wed May 22 09:56:52 2024: env37: <PUBLIC=C:\Users\Public>
+Wed May 22 09:56:52 2024: env38: <RPE_HOME=C:\Program Files\IBM\Rational\Publishing Engine>
+Wed May 22 09:56:52 2024: env39: <SESSIONNAME=Console>
+Wed May 22 09:56:52 2024: env40: <STM32CubeMX_PATH=C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX>
+Wed May 22 09:56:52 2024: env41: <SystemDrive=C:>
+Wed May 22 09:56:52 2024: env42: <SystemRoot=C:\windows>
+Wed May 22 09:56:52 2024: env43: <TEMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env44: <TMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env45: <USERDNSDOMAIN=SD6.GLB.CORP.LOCAL>
+Wed May 22 09:56:52 2024: env46: <USERDOMAIN=SD6>
+Wed May 22 09:56:52 2024: env47: <USERDOMAIN_ROAMINGPROFILE=SD6>
+Wed May 22 09:56:52 2024: env48: <USERNAME=a0e72162>
+Wed May 22 09:56:52 2024: env49: <USERPROFILE=C:\Users\a0e72162>
+Wed May 22 09:56:52 2024: env50: <windir=C:\windows>
+Wed May 22 09:56:52 2024: env51: <XERCESC_NLS_HOME=C:\ti\ccsv6\ccs_base\common\bin>
+Wed May 22 09:56:52 2024: env52: <ZES_ENABLE_SYSMAN=1>
+Wed May 22 09:56:52 2024: env53: <_NO_DEBUG_HEAP=1>
+Wed May 22 09:56:52 2024: process with pid 33884 exit with code: 0 (0x0)
+Wed May 22 09:56:52 2024: process created with pid: 28624
+Wed May 22 09:56:52 2024: image path name: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\cl2000.exe>
+Wed May 22 09:56:52 2024: command line: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\cl2000 --silicon_version=28 -g -O2 --diag_warning=225 --large_memory_model --float_support=fpu32 --canonicalize_options -z --stack_size=0x380 --warn_sections --reread_libs --rom_model>
+Wed May 22 09:56:52 2024: working directory: <C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\maincontrol_dsp\Release\>
+Wed May 22 09:56:52 2024: isWow64: 1
+Wed May 22 09:56:52 2024: VirtualQueryEx 000000000001091C
+Wed May 22 09:56:52 2024: 	Offset 2332
+Wed May 22 09:56:52 2024: 	VirtualQueryEx Base	BaseAddr: 0000000000010000	AllocationBase: 0000000000010000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Wed May 22 09:56:52 2024: Read environment of size 3474
+Wed May 22 09:56:52 2024: env0: <=::=::\>
+Wed May 22 09:56:52 2024: env1: <=C:=C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp>
+Wed May 22 09:56:52 2024: env2: <=ExitCode=00000000>
+Wed May 22 09:56:52 2024: env3: <ALLUSERSPROFILE=C:\ProgramData>
+Wed May 22 09:56:52 2024: env4: <APPDATA=C:\Users\a0e72162\AppData\Roaming>
+Wed May 22 09:56:52 2024: env5: <CANoe_InstallDir=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env6: <CANoe_InstallDir64=c:\Program Files\Vector CANoe 15\Exec64\>
+Wed May 22 09:56:52 2024: env7: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env8: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Wed May 22 09:56:52 2024: env9: <CommonProgramW6432=C:\Program Files\Common Files>
+Wed May 22 09:56:52 2024: env10: <COMPUTERNAME=ACSLRL21167>
+Wed May 22 09:56:52 2024: env11: <ComSpec=C:\windows\system32\cmd.exe>
+Wed May 22 09:56:52 2024: env12: <CYGWIN=wincmdln>
+Wed May 22 09:56:52 2024: env13: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Wed May 22 09:56:52 2024: env14: <HOMEDRIVE=C:>
+Wed May 22 09:56:52 2024: env15: <HOMEPATH=\Users\a0e72162>
+Wed May 22 09:56:52 2024: env16: <IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhm9XggTkFE2wRpAJT3aJ2QQAAAACAAAAAAAQZgAAAAEAACAAAAD+SsPr3kXvb3t85z0mqPOkQMBzMuWCGms9tEq4FWfYnwAAAAAOgAAAAAIAACAAAABgOzMOf35DRAPgMVDjAffRLqpRCdrPhQmRepnESp4pFWAAAACYE1MgBEusDiefnaM8qpPQgmvh2UxS6acsX/bdT3yS8x6bD+NayuRdnskGDe+c8YjxvXQHcQ9JbWpKiMtSXZxmYjrHkkKym01Wb/6o8hNNrqkanRpML0uFbRxkYXwGKWlAAAAA3tubI6rrWiOp59B91ECWHablr+1KJ5eSYVa2juPAsEVBpyxxCsKluL3IPtRNostn5u3WsUq1hdZWrATtQBGZng==>
+Wed May 22 09:56:52 2024: env17: <LOCALAPPDATA=C:\Users\a0e72162\AppData\Local>
+Wed May 22 09:56:52 2024: env18: <LOGONSERVER=\\SD6-FRCSL-DW01>
+Wed May 22 09:56:52 2024: env19: <NUMBER_OF_PROCESSORS=12>
+Wed May 22 09:56:52 2024: env20: <OneDrive=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env21: <OneDriveConsumer=C:\Users\a0e72162\OneDrive>
+Wed May 22 09:56:52 2024: env22: <OS=Windows_NT>
+Wed May 22 09:56:52 2024: env23: <Path=C:\ti\ccsv6\ccs_base\common\bin;C:\ti\ccsv6\ccs_base\common\uscif;C:\ti\ccsv6\ccs_base\DebugServer\license;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Oberthur Technologies\AWP\Dlls;C:\Program Files\Oberthur Technologies\AWP\Dlls;c:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Keil_v5\UV4;C:\Workspace\HUT-CRI-SEEDS-SCP;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\ti\ccsv6\utils\bin;C:\Users\a0e72162\.cargo\bin;C:\Users\a0e72162\AppData\Local\Microsoft\WindowsApps;C:\Users\a0e72162\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\a0e72162\AppData\Local\GitHubDesktop\bin;C:\Users\a0e72162\AppData\Local\Programs\Git\cmd;C:\Users\a0e72162\AppData\Roaming\npm>
+Wed May 22 09:56:52 2024: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW>
+Wed May 22 09:56:52 2024: env25: <PICO_DRIVER=c:\Program Files\Vector_CANoe_CANalyzer_Scope\Drivers>
+Wed May 22 09:56:52 2024: env26: <PROCESSOR_ARCHITECTURE=x86>
+Wed May 22 09:56:52 2024: env27: <PROCESSOR_ARCHITEW6432=AMD64>
+Wed May 22 09:56:52 2024: env28: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel>
+Wed May 22 09:56:52 2024: env29: <PROCESSOR_LEVEL=6>
+Wed May 22 09:56:52 2024: env30: <PROCESSOR_REVISION=ba03>
+Wed May 22 09:56:52 2024: env31: <ProgramData=C:\ProgramData>
+Wed May 22 09:56:52 2024: env32: <ProgramFiles=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env33: <ProgramFiles(x86)=C:\Program Files (x86)>
+Wed May 22 09:56:52 2024: env34: <ProgramW6432=C:\Program Files>
+Wed May 22 09:56:52 2024: env35: <PROMPT=$P$G>
+Wed May 22 09:56:52 2024: env36: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell>
+Wed May 22 09:56:52 2024: env37: <PUBLIC=C:\Users\Public>
+Wed May 22 09:56:52 2024: env38: <RPE_HOME=C:\Program Files\IBM\Rational\Publishing Engine>
+Wed May 22 09:56:52 2024: env39: <SESSIONNAME=Console>
+Wed May 22 09:56:52 2024: env40: <STM32CubeMX_PATH=C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX>
+Wed May 22 09:56:52 2024: env41: <SystemDrive=C:>
+Wed May 22 09:56:52 2024: env42: <SystemRoot=C:\windows>
+Wed May 22 09:56:52 2024: env43: <TEMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env44: <TMP=C:\Users\a0e72162\AppData\Local\Temp>
+Wed May 22 09:56:52 2024: env45: <USERDNSDOMAIN=SD6.GLB.CORP.LOCAL>
+Wed May 22 09:56:52 2024: env46: <USERDOMAIN=SD6>
+Wed May 22 09:56:52 2024: env47: <USERDOMAIN_ROAMINGPROFILE=SD6>
+Wed May 22 09:56:52 2024: env48: <USERNAME=a0e72162>
+Wed May 22 09:56:52 2024: env49: <USERPROFILE=C:\Users\a0e72162>
+Wed May 22 09:56:52 2024: env50: <windir=C:\windows>
+Wed May 22 09:56:52 2024: env51: <XERCESC_NLS_HOME=C:\ti\ccsv6\ccs_base\common\bin>
+Wed May 22 09:56:52 2024: env52: <ZES_ENABLE_SYSMAN=1>
+Wed May 22 09:56:52 2024: env53: <_NO_DEBUG_HEAP=1>
+Wed May 22 09:56:52 2024: process with pid 28624 exit with code: 0 (0x0)
+Wed May 22 09:56:53 2024: process created with pid: 28960
+Wed May 22 09:56:53 2024: image path name: <C:\windows\SysWOW64\ping.exe>
+Wed May 22 09:56:53 2024: command line: <ping -n 1 -w 3000 dns-primary.itg.ti.com>
+Wed May 22 09:56:53 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:53 2024: isWow64: 1
+Wed May 22 09:56:53 2024: skipping process C:\Windows\SysWOW64\PING.EXE with pid: 28960
+Wed May 22 09:56:53 2024: process with pid 28960 exit with code: 1 (0x1)
+Wed May 22 09:56:53 2024: process created with pid: 23896
+Wed May 22 09:56:53 2024: image path name: <C:\ti\ccsv6\eclipse\plugins\org.eclipse.cdt.core.win32.x86_5.4.0.201509131935\os\win32\x86\starter.exe>
+Wed May 22 09:56:53 2024: command line: <"C:\ti\ccsv6\eclipse\plugins\org.eclipse.cdt.core.win32.x86_5.4.0.201509131935\os\win32\x86\starter.exe" 21536 0 SABreak0229E3F8 SAWait0229E3F8 SATerm0229E3F8 SAKill0229E3F8 SACtrlc0229E3F8 C:\ti\ccsv6\utils\bin\gmake -k all >
+Wed May 22 09:56:53 2024: working directory: <C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\maincontrol_dsp\Release\>
+Wed May 22 09:56:53 2024: isWow64: 1
+Wed May 22 09:56:53 2024: skipping process C:\ti\ccsv6\eclipse\plugins\org.eclipse.cdt.core.win32.x86_5.4.0.201509131935\os\win32\x86\starter.exe with pid: 23896
+Wed May 22 09:56:53 2024: process created with pid: 20336
+Wed May 22 09:56:53 2024: image path name: <C:\ti\ccsv6\utils\bin\gmake.exe>
+Wed May 22 09:56:53 2024: command line: <C:\ti\ccsv6\utils\bin\gmake -k all >
+Wed May 22 09:56:53 2024: working directory: <C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\maincontrol_dsp\Release\>
+Wed May 22 09:56:53 2024: isWow64: 1
+Wed May 22 09:56:53 2024: skipping process C:\ti\ccsv6\utils\bin\gmake.exe with pid: 20336
+Wed May 22 09:56:53 2024: process with pid 20336 exit with code: 0 (0x0)
+Wed May 22 09:56:53 2024: process with pid 23896 exit with code: 0 (0x0)
+Wed May 22 09:56:53 2024: process created with pid: 29704
+Wed May 22 09:56:53 2024: image path name: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\adv2000.exe>
+Wed May 22 09:56:53 2024: command line: <C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\adv2000.exe --advice_file="C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\.metadata\.plugins\org.eclipse.core.resources\.projects\maincontrol_dsp\com.ti.ccstudio.project.core\Release\advice.xml" --benchmarks_file="C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\.metadata\.plugins\org.eclipse.core.resources\.projects\maincontrol_dsp\com.ti.ccstudio.project.core\Release\benchmarks.xml" --linker_options_file="C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\.metadata\.plugins\org.eclipse.core.resources\.projects\maincontrol_dsp\com.ti.ccstudio.project.core\Release\linkerFlags.txt" --xml_link_info="C:\Workspace\HUT-CRI-SEEDS-SCP\src\C2000_nRF24L01-master\maincontrol_dsp\Release\maincontrol_dsp_linkInfo.xml">
+Wed May 22 09:56:53 2024: working directory: <C:\Workspace\C2000_nRF24L01-master\maincontrol_dsp\>
+Wed May 22 09:56:53 2024: isWow64: 1
+Wed May 22 09:56:53 2024: skipping process C:\ti\ccsv6\tools\compiler\c2000_15.12.3.LTS\bin\adv2000.exe with pid: 29704
+Wed May 22 09:56:53 2024: process with pid 29704 exit with code: 0 (0x0)
+Wed May 22 09:57:11 2024: process with pid 21536 exit with code: 0 (0x0)
+Wed May 22 09:57:11 2024: finalizing json file
